@@ -41,3 +41,6 @@ until we see the need for one.
 2. The source code of the cog will be looked over by a moderator or officer to ensure that the cog, and the creator is honest.  
     * if you have questions about what is considered unsafe, check the discord server rules for information or contact a moderator or officer.
 3. If the cog is approved, the cog will be added to the HatBot repository where you can use the cog however much you want.
+
+
+## When you start implementing make sure you change this README
