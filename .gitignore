@@ -129,8 +129,4 @@ dmypy.json
 .pyre/
 
 
-.idea/.gitignore
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/template_cog.iml
+.idea/
