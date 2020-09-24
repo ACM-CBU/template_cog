@@ -4,7 +4,7 @@ The only thing that will change from cog to cog is what you import, which will b
 """
 
 
-from .mycog import MyCog
+from .my_cog import MyCog
 """This is a relative import, this allows you to reference files 
 in a relative manor to the file that you importing in. The cog 
 that you reference will be different for every cog as every 
