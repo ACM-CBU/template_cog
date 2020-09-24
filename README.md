@@ -1,7 +1,7 @@
 # Template Cog Repository
 
 ## Welcome!!
-HELLO TEAM! This repository is for anyone that wants to learn [how to make a cog](# Making A Cog) for the HatBot or [learn what a cog is](## What Is A Cog?).
+HELLO TEAM! This repository is for anyone that wants to learn [how to make a cog](# Making A Cog) for the HatBot or [learn what a cog is](#What Is A Cog?).
 There is a [verification process](## Verification Process) that __every__ cog has to go through. 
 
 
