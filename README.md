@@ -1,11 +1,11 @@
 # Template Cog Repository
 
-##Welcome!!
-HELLO TEAM! This repository is for anyone that wants to learn [how to make a cog](#Making A Cog) for the HatBot or [learn what a cog is](##What Is A Cog?).
-There is a [verification process](##Verification Process) that __every__ cog has to go through. 
+## Welcome!!
+HELLO TEAM! This repository is for anyone that wants to learn [how to make a cog](# Making A Cog) for the HatBot or [learn what a cog is](## What Is A Cog?).
+There is a [verification process](## Verification Process) that __every__ cog has to go through. 
 
 
-##Bot Information
+## Bot Information
 There is a some pieces of information that may prove useful when messing around with HatBot. HatBot is a product of a 
 python package bot called [RedBot](https://docs.discord.red/en/stable/index.html). RedBot is a really cool open-source python package that is dedicated to making bots 
 extremely easy to use and give you a base foundation to launch your discord bot. With that being said we have modified the
@@ -14,12 +14,12 @@ permissions of commands.
  
 
 
-##What Is A Cog?
+## What Is A Cog?
 A cog is a fancy name for a piece of functionality that discord bots have. These ___cogs___ are usually made up of python modules.
 If you would like to see an example off a cog here is a link to the [guide from RedBot](https://docs.discord.red/en/stable/guide_cog_creation.html#creating-a-cog).
 
 
-##Making A Cog
+## Making A Cog
 Making a cog can look pretty confusing and convoluted, **but this is not the case!**
 At its core, a cog is just a python module where you can make any functionality as long as it is possible with python commands.
 If you would like to see an example off a cog here is a link to the [guide from RedBot](https://docs.discord.red/en/stable/guide_cog_creation.html#creating-a-cog), if you would like to see a video then stay here and look bellow.
@@ -32,7 +32,7 @@ until we see the need for one.
 
 
 
-##Verification Process
+## Verification Process
 1. Every cog will first be tested on one of the TestBots in the CBU-ACM discord server.
     * This allows for everyone to have the ability to test their various cog mechanics before it is "released" 
     on the TheHatBot.
