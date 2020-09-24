@@ -1,7 +1,7 @@
 # Template Cog Repository
 
 ## Welcome!!
-HELLO TEAM! This repository is for anyone that wants to learn [how to make a cog](https://github.com/ACM-CBU/template_cog/blob/master/README.md#verification-process) for the HatBot or [learn what a cog is](https://github.com/ACM-CBU/template_cog/blob/master/README.md#making-a-cog).
+HELLO TEAM! This repository is for anyone that wants to learn [how to make a cog](https://github.com/ACM-CBU/template_cog/blob/master/README.md#make-a-cog) for the HatBot or [learn what a cog is](https://github.com/ACM-CBU/template_cog/blob/master/README.md#what-is-a-cog).
 There is a [verification process](https://github.com/ACM-CBU/template_cog/blob/master/README.md#verification-process) that __every__ cog has to go through. 
 
 
