@@ -36,4 +36,4 @@ class MyCog(commands.Cog):
     @commands.command()
     async def sayHi(self, ctx: commands.Context, *arg):  # '*args' allows you to take in as many params as are passed in
         # Calls helper method from another file
-        await ctx.send(say_hi_helper(arg))
+        await ctx.send(say_hi_helper(*arg))
